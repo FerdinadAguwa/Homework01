@@ -26,6 +26,6 @@ No contributions allowed
 ### Ferdinad Aguwa 
 * Github username: FerdinadAguwa
 * Email: ferd.aguwa@yahoo.com
-<img src="https://postimg.cc/SJXv4HN4"
+<img src= "https://postimg.cc/SJXv4HN4"
      alt="Contributer Photo"
      style="float: left; margin-right: 10px;" />
